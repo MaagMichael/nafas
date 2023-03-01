@@ -1,0 +1,8 @@
+#085372 Grün 
+#d2b768 Gelb
+#eec865 Gelb
+#f0c765 Gelb
+#f6c25c Gelb
+
+#2c3e50 Button hover
+#23282d Background

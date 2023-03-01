@@ -1,0 +1,19 @@
+#root {
+  /* border: 1px solid pink; */
+}
+
+
+#events {
+  /* background-color: #085372;
+  color: #f6c25c; */
+  padding: 1rem;
+  min-height: 50vh;
+}
+#events video {
+  width: 12rem;
+  border-radius: .5rem;
+}
+
+#events p {
+  color: black;
+}

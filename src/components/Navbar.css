@@ -1,0 +1,28 @@
+#root {
+  /* border: 1px solid pink; */
+}
+
+.logo {
+  
+  /* border: 1px solid pink; */
+}
+.logo img {
+    width: 5rem;
+    border-radius: 1rem;
+}
+
+nav {
+  background-color: #085372;
+  color: #f6c25c;
+  /* needs better solution for sticky with hook */
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  width: 100%;
+}
+
+nav a {
+    padding: 1rem;
+    color: #fff;
+    text-decoration: none;
+}

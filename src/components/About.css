@@ -1,0 +1,11 @@
+#root {
+  /* border: 1px solid pink; */
+}
+
+
+#about {
+  background-color: #085372;
+  color: #f6c25c;
+  padding: 1rem;
+  min-height: 50vh;
+}
